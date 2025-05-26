@@ -1,0 +1,56 @@
+GIT VERSION CHECK -  git -- version
+
+GITHUB username : cjamuna.ctpg@kongu.edu
+pwd : Jamu@2010
+
+Control Pannel -> credential manager -> window credential -> delete if github is there by clicking REMOVE option
+
+Create new folder in D drive -> in the addressbar of that folder give CMD  then give code . to move to visual studio code
+
+GIT HUB
+
+GIT CONFIG –LIST
+
+git config --global user.name "Jamuna"
+
+git config --global user.email  "cjamuna.ctpg@kongu.edu"
+
+create new file index.html
+ to add it to Init give
+git init
+
+git add index.html
+git branch -M main
+
+ git commit -m "our own messagefirst commit" 
+
+git remote add origin https://github.com/cjamuna/kongu-MERN.git
+git push -u origin main
+
+CHANGES REFLECT:
+step1 : add   --> git add .
+step2 : commit  --> git commit -m "modified my data"
+step 3: push  --> git push 
+
+git pull - to access cloud data to local machine
+open git repository where we have the code --> in that choose switch editor ---> do changes --> click  commit changes
+in terminal give git pull
+
+move repository to local machine
+
+click -->> code in repository page -->
+copy code https://github.com/cjamuna/kongu-MERN.git
+give git clone https://github.com/cjamuna/kongu-MERN.git
+
+create new branch
+
+git checkout -b jamu 
+
+to view branch--> git branch
+
+
+
+
+
+
+
